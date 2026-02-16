@@ -1,0 +1,90 @@
+# DOMAIN 4 — CIVIL FRAGMENTATION TRIGGERS
+
+## Purpose of this domain
+Detect when pressure + enforcement convert into lived disruption — the point where system strain shows up in schools, services, neighborhoods, and daily coordination for households.
+
+This domain is downstream of Domains 1–3 and conditioned by Domain 2.
+
+---
+
+## 4.1 What belongs (validated)
+
+- Service continuity (schools, transit, healthcare access)
+- Local enforcement posture shifts
+- Protest-to-policy transitions
+- Institutional capacity loss (not rhetoric)
+- Community-level disruption with persistence
+
+---
+
+## 4.2 What changed (re-baseline)
+
+Fragmentation now presents as partial failure, not collapse:
+- shortened hours  
+- inconsistent enforcement  
+- backlogs and “temporary” suspensions  
+- uneven application across neighborhoods  
+
+So we track durability and spread, not spikes.
+
+---
+
+## 4.3 Triggers
+
+### 🔴 ALERT-ELIGIBLE (strict, proximity-based)
+
+Alert only when disruption is persistent (**≥72 hours**) or spreading.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Sustained disruption to schools/transport | M | H | H | Attendance, routes, schedules |
+| Healthcare access constraints (non-clinical) | M | H | M | Intake, referrals, coverage |
+| Local enforcement posture hardening | M | M | M | Curfews, checkpoints, selective enforcement |
+| Service rationing or closures | M | M | H | Utilities, offices, aid |
+| Court or agency backlogs affecting households | M | H | M | Compounding impact |
+
+**Alert rule:**  
+👉 Must be local and persistent or cascading.
+
+---
+
+### 🟡 LOG-ONLY (pattern detection)
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Protests without policy follow-through | H | L | H | Noise unless durable |
+| Short-lived service interruptions | M | L | H | Log only |
+| Localized incidents without spread | M | L | H | Context |
+| NGO / municipal strain signals | M | M | M | Early |
+
+Purpose: trend confirmation, not urgency.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS
+
+Deprioritize:
+- viral disorder narratives  
+- one-off incidents resolved quickly  
+- symbolic actions without operational impact  
+
+---
+
+## 4.4 Household Impact Override (Domain 4)
+
+Immediate escalation only if:
+- school access is disrupted  
+- transportation to school or care is constrained  
+- healthcare intake/access is limited  
+- agencies critical to household stability stall or close  
+
+---
+
+## 4.5 Plateau rule
+
+Domain 4 enters plateau if:
+- services remain continuous  
+- enforcement remains consistent  
+- disruptions resolve quickly without spread  
+
+Plateau = weekly glance.
