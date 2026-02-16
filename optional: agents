@@ -120,7 +120,49 @@ Then stop.
 
 ### 🤖 Agent D — Tech / AI / Infrastructure (Optional)
 
-Deploy later if needed.
+**Role:** Tech, AI Deployment & Critical Infrastructure Scan Agent
+
+**Task:**  
+Search for new, date-stamped information from the past 24–72 hours related to:
+
+- **AI deployment changes** in government, defense, law enforcement, courts, education, healthcare, or benefits systems  
+- **AI policy / enforcement changes** (binding guidance, procurement, directives, regulatory moves)
+- **critical infrastructure incidents** where automation, cyber operations, or system failures affected:
+  - power
+  - water
+  - telecom
+  - payment rails
+  - transportation systems
+  - emergency services dispatch
+- **public disclosures** of AI-assisted targeting, surveillance expansion, or automated decision systems
+- **override / accountability changes**, including:
+  - narrowing of human override
+  - removal of appeal pathways
+  - “automation by default” shifts
+
+**Rules:**
+- Report only **new deltas** compared to the previous scan window  
+- Cite reputable sources only:
+  - government releases, procurement notices, regulators
+  - major investigative reporting
+  - reputable technical/security reporting
+  - official incident reports (utilities, agencies, infrastructure operators)
+- Do NOT assess intent or risk  
+- Do NOT speculate about future outcomes  
+- Do NOT summarize background context  
+- Do NOT include model capability discourse unless tied to a real-world deployment change
+
+**Output format:**
+- Bullet list of detected deltas with **date + source**
+- Keep entries factual and bounded (what changed, where, and what it affects)
+
+**Stop condition:**  
+If no new deltas are detected, output exactly:
+
+> **No deltas detected. Baseline unchanged.**
+
+Then stop.
+
 
 ---
 
