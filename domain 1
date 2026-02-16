@@ -1,0 +1,78 @@
+# DOMAIN 1 — GLOBAL FLASHPOINTS
+
+## Purpose of this domain
+Track external events that can inject pressure into domestic, economic, or civil systems with little warning — especially where escalation reduces reaction time for households.
+
+This domain is upstream.  
+Most of it never alerts.  
+Its value is in early causality, not immediacy.
+
+---
+
+## 1.1 What still belongs (validated)
+
+These remain relevant:
+- Middle East escalation vectors
+- Taiwan / South China Sea
+- Russia / NATO boundary stress
+- Energy chokepoints (e.g., Hormuz, Red Sea)
+- Alliance signaling and kinetic spillover
+
+Structure holds.
+
+---
+
+## 1.2 What changed (re-baseline)
+
+The risk is no longer “war starts.”
+
+It is:
+- containment failure  
+- miscalculation  
+- spillover into trade, energy, cyber, or travel  
+- security framing used to justify domestic measures  
+
+So we stop watching for invasion headlines and start watching for secondary effects.
+
+---
+
+## 1.3 Triggers
+
+### 🔴 ALERT-ELIGIBLE (rare, stacked only)
+
+These do **not** alert alone.  
+They alert only when they stack with **Domain 3 (Economic)** or **Domain 2 (Domestic)** impacts.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Direct attack on U.S. or allied assets | L | H | H | Watch escalation chain |
+| Energy chokepoint disruption | M | H | M | Shipping routes, Red Sea, Hormuz |
+| Alliance-wide mobilization language | L | H | M | Not rhetoric, policy |
+| Cyber operations affecting civilian infrastructure | M | H | M | Power, transport |
+| Rapid sanctions with domestic spillover | M | M | H | Payments, fuel |
+
+**Alert rule:**  
+👉 Only if domestic access, cost, movement, or enforcement is affected within days.
+
+---
+
+### 🟡 LOG-ONLY (primary function)
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Ongoing regional conflicts | H | M | H | Background |
+| Military posturing | M | M | H | Baseline |
+| Arms transfers | M | M | M | Context |
+| Diplomatic breakdowns | M | M | M | Early |
+| Proxy conflicts | M | M | M | Long arc |
+
+Purpose: causality tracking, not vigilance.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS
+
+Deprioritize:
+- speculative WW3 narratives  
+- social-media war countdowns  
+- generalized “global instability” comme
