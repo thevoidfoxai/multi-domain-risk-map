@@ -1,0 +1,131 @@
+# DOMAIN 6 — AI SYSTEMIC RISK (UPDATED)
+
+## Purpose of this domain (unchanged)
+Track AI behaviors that amplify harm across other domains, especially where **error + authority + opacity** converge.
+
+This domain is never standalone.  
+It only matters when it touches **law, force, movement, benefits, or safety** through binding systems.
+
+---
+
+## 6.1 What still belongs (validated)
+
+These remain core:
+- model fragmentation & misalignment  
+- weaponized autonomy / AI-assisted targeting  
+- civilian harm from predictive systems  
+- AI use in active conflict zones  
+- researcher warnings / exits  
+- lack of shared safety metrics  
+
+These are still real, still unresolved, and still compounding.
+
+So: structure holds.
+
+---
+
+## 6.2 What has changed (important updates)
+
+### A. Risk shifted from models → deployment surfaces
+The biggest change in the last few months:
+
+The danger is no longer “what the model says.”  
+It’s where the output is treated as authority.
+
+So this domain explicitly tracks **decision-binding deployments**, not just AI capability.
+
+New emphasis areas:
+- courts and administrative adjudication  
+- policing and enforcement systems  
+- border / immigration processing  
+- benefits eligibility and service access  
+- dependent-care systems (including education and welfare systems)  
+- emergency response prioritization  
+
+---
+
+### B. “Oversight” is now often procedural, not real
+Oversight language exists, but:
+- override windows are narrow  
+- logs are inaccessible  
+- accountability is post-hoc  
+
+So we stop tracking promises and start tracking **failure exposure**.
+
+---
+
+## 6.3 Triggers (grouped by function, not institution)
+
+### 🔴 ALERT-ELIGIBLE (only when proximity is met)
+
+These do not alert by default.  
+They become alert-worthy only if the change is **binding, localized, or fast-moving**.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| AI outputs treated as legally or operationally binding | M | H | M | Especially in courts, adjudication, benefits |
+| Automated decision systems affecting dependent households | M | H | M | Education access, welfare, housing |
+| Removal or narrowing of human override | M | H | L | “Human-in-the-loop” in name only |
+| Error exposure + no remediation pathway | M | H | M | Kafka risk |
+| Emergency powers justified by AI analysis | L | H | M | High concern when stacked |
+
+**Alert condition:**  
+👉 Only when **two or more** stack *and* touch real-world access systems through binding decisions, shortened timelines, or enforcement coupling.
+
+---
+
+### 🟡 LOG-ONLY (core archive + pattern detection)
+
+These are always logged, never interruptive.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Model fragmentation across labs | M | M | H | Background risk |
+| Alignment drift claims | M | M | H | Watch trends, not panic |
+| Researcher exits / warnings | M | M | H | Credibility-weighted |
+| Military AI disclosures (non-domestic) | L | H | M | Escalates only on spillover |
+| “Safety framework” divergence | M | M | H | Institutional drift |
+| Vendor marketing > actual safeguards | H | M | H | Noise but informative |
+
+Purpose: receipts + hindsight immunity.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS (for now)
+
+These are not gone — just not worth carrying daily unless reactivated:
+- speculative AGI timelines  
+- abstract sentience arguments  
+- purely academic alignment debates without deployment  
+- generalized “AI is dangerous” commentary  
+
+**Reactivation triggers:**
+- sudden policy coupling  
+- real-world authority delegation  
+- mass rollout without pilot transparency  
+
+---
+
+## 6.4 ACCESS & SAFETY OVERRIDE RULE (explicit)
+
+AI risk escalates only when AI systems begin to affect real-world access, rights, or enforcement, including:
+- legal outcomes or administrative rulings  
+- education access or accommodations  
+- healthcare eligibility or intake access  
+- benefits, housing, or food access  
+- enforcement contact probability or risk scoring  
+
+This rule overrides abstract or speculative AI risk signaling.
+
+---
+
+## 6.5 Plateau logic
+
+Domain 6 enters plateau / low-attention mode if:
+- no new deployments touching authority  
+- no narrowing of override rights  
+- no domestic spillover from conflict AI  
+- no policy acceleration  
+
+Plateau ≠ safe.  
+Plateau = watch quietly, don’t burn energy.
