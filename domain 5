@@ -1,0 +1,99 @@
+# DOMAIN 5 — HOMELAND FEAR LEVER DEPLOYMENT (META-DOMAIN)
+
+## Purpose of this domain
+Track when fear is operationalized to justify actions across other domains.
+
+This domain does not stand alone.  
+It only activates when fear framing is used to move **policy, enforcement, compliance, or authority**.
+
+This is the narrative → authority conversion layer.
+
+---
+
+## 5.1 What belongs (clarified)
+
+This domain watches:
+- framing shifts that precede rule changes  
+- emergency language paired with delegation of power  
+- normalization of extraordinary measures  
+- compression of dissent or review windows  
+
+It does not track sentiment.  
+It tracks instrumental fear.
+
+---
+
+## 5.2 What changed (re-baseline)
+
+Fear deployment is now:
+- quieter  
+- bureaucratic  
+- procedural  
+- justified as “temporary,” “targeted,” or “technical”  
+
+So we ignore rhetoric and watch coupling.
+
+---
+
+## 5.3 Triggers
+
+### 🔴 ALERT-ELIGIBLE (very strict)
+
+These alert only when fear language directly authorizes action.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Emergency declarations with enforcement impact | M | H | H | Movement, services |
+| Surveillance expansion justified by threat framing | M | H | M | Especially households |
+| Suspension of normal process due to “urgency” | L | H | M | Review windows |
+| Delegation of authority to automated systems | L | H | L | AI + fear coupling |
+| Restriction of access or rights via emergency framing | M | H | M | Quiet but binding |
+
+**Alert rule:**  
+👉 Must bind behavior or reduce agency within days, not months.
+
+---
+
+### 🟡 LOG-ONLY (core function)
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Threat inflation without action | H | L | H | Noise |
+| Media amplification without policy | H | L | H | Ignore |
+| Preparedness rhetoric | M | L | H | Context |
+| “Out of an abundance of caution” language | M | M | H | Watch repetition |
+
+Purpose: detect normalization drift over time.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS
+
+Deprioritize:
+- generalized anxiety narratives  
+- speculative threats without authority coupling  
+- symbolic alerts without consequence  
+
+---
+
+## 5.4 Household Impact Override (critical)
+
+Immediate escalation only if fear-based actions:
+- affect schooling or childcare  
+- affect healthcare access  
+- affect movement or documentation  
+- expand monitoring of households or minors  
+
+Fear without leverage = log.  
+Leverage with shortened reaction time = alert.
+
+---
+
+## 5.5 Plateau rule
+
+Domain 5 enters plateau if:
+- emergency language does not bind  
+- review mechanisms remain intact  
+- measures sunset on schedule  
+
+Plateau = monthly review only.
