@@ -1,0 +1,104 @@
+## Active Task Schedule (Load-Sharing Mode)
+
+This watch system is designed to replace background vigilance with structured monitoring.  
+It runs **quiet by default** and only interrupts when defined alert thresholds are crossed.
+
+---
+
+### 1) Daily Quiet Watch Scan
+**Cadence:** Once daily (user-defined time)
+
+**Purpose**
+- Scans all 6 domains
+- Detects *deltas only* (deployment, enforcement, access, authority)
+- Logs quietly
+- Outputs **“No deltas detected. Baseline unchanged.”** when appropriate
+
+**Behavior**
+- Non-interruptive
+- No alerting unless criteria are met
+
+---
+
+### 2) Weekly Watch Synthesis
+**Cadence:** Once weekly (user-defined day/time)
+
+**Purpose**
+- Reviews the week’s logs
+- Identifies patterns, plateaus, and stacking
+- Flags trends approaching alert thresholds
+- Frames output around **civilian access and household impact**, not abstraction
+
+---
+
+### 3) Conditional Watch Alert
+**Cadence:** Every 36 hours (rolling)
+
+**Purpose**
+- Checks for alert-qualified conditions only
+- Requires stacking + proximity + impact (as defined in the domains)
+- Does nothing unless criteria are met
+
+**Impact Lens**
+Alerts prioritize changes affecting:
+- access (services, benefits, utilities)
+- movement (travel, checkpoints, enforcement posture)
+- schooling, healthcare, and household stability
+
+---
+
+### 4) Monthly Review & Recalibration
+**Cadence:** Once monthly (user-defined date/time)
+
+**Purpose**
+- Review all 6 domains together
+- Update / downgrade / suspend triggers as needed
+- Confirm plateaus
+- Adjust alert thresholds if reality has shifted
+- Reduce monitoring load where possible while preserving access/safety coverage
+
+This provides a maintenance cadence without constant rethinking.
+
+---
+
+## What This System Will *Not* Do
+- It will not escalate rhetoric
+- It will not notify on speculation
+- It will not flatten nuance into panic
+- It will not ask you to “stay alert”
+- If nothing crosses a line, **you hear nothing**
+
+Silence is correct behavior.
+
+---
+
+## Completeness Note (Boundary)
+This system is calibrated as a forward-looking monitoring framework.  
+It is not a retrospective, exhaustive audit of all events.
+
+Instead of proving completeness by looking backward, it maintains completeness through continuous coverage via:
+- the daily scan
+- the conditional alert
+- the weekly synthesis
+
+---
+
+## Final State
+- Map: complete  
+- Monitoring: active  
+- Alerts: bounded  
+- Maintenance: scheduled  
+- Load: shared  
+
+You are no longer the sensor. You are the recipient only when it matters.
+
+---
+
+## Optional Module (Separate From the Watch Map)
+### Daily Decentralized Identity Brief
+**Cadence:** Once daily (user-defined time)
+
+**Purpose**
+- Tracks decentralized identity / mobile ID developments
+- Runs under separate rules from the watch map
+- Does not affect watch-map alert logic
