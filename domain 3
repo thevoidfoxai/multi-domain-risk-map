@@ -1,0 +1,122 @@
+# DOMAIN 3 — ECONOMIC FRACTURE SIGNALS
+
+## Purpose of this domain
+Detect quiet economic shifts that constrain civilians and households before headlines — especially changes that tighten options, shorten timelines, or alter rules around access to money, services, or stability.
+
+This domain is not about markets.  
+It’s about pressure propagation.
+
+---
+
+## 3.1 What still belongs (validated)
+
+These remain core:
+- Treasury / bond market stress
+- Currency and trade realignment
+- Banking instability
+- Capital controls / payment restrictions
+- Cost-of-living shocks
+
+Structure holds.
+
+---
+
+## 3.2 What changed (re-baseline)
+
+### A. Fracture now shows up as friction, not collapse
+
+Less “crash,” more:
+- delayed payments  
+- stricter eligibility  
+- slower processing  
+- narrower grace windows  
+- “temporary” restrictions that linger  
+
+So we stop watching for fireworks and start watching for drag.
+
+---
+
+### B. Households feel it before systems admit it
+
+A recurring pattern:
+> Households encounter constraint before institutions acknowledge stress.
+
+Signals tied to benefits, banking access, utilities, housing, and transportation carry higher practical weight than abstract macro indicators.
+
+---
+
+## 3.3 Triggers
+
+### 🔴 ALERT-ELIGIBLE (rare, proximity-based)
+
+These only alert if they shorten reaction time or remove options.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Restrictions on cash access or withdrawals | L | H | M | Any form, even “temporary” |
+| Payment system outages affecting essentials | M | H | H | Food, rent, utilities |
+| Sudden benefits interruption or rule change | M | H | M | Households are hit first |
+| Emergency economic measures tied to security | L | H | M | Watch coupling |
+| Rapid cost spikes in essentials (local) | M | M | H | Food, fuel, utilities |
+
+**Alert rule:**  
+👉 Must affect the relevant local area and reduce options within days, not months.
+
+---
+
+### 🟡 LOG-ONLY (primary function of this domain)
+
+Most of Domain 3 lives here.
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Treasury or bond market stress signals | M | H | M | Early but abstract |
+| Foreign sell-off of sovereign debt | M | M | M | Contextual |
+| Trade settlement shifts (e.g., BRICS) | M | M | M | Long arc |
+| Bank tightening / credit contraction | H | M | H | Shows up quietly |
+| Insurance withdrawal from regions | M | M | M | Housing + risk |
+| Utility pricing or service changes | M | M | H | Household impact |
+| Corporate insolvency clusters | M | M | M | Employment lag |
+
+Purpose: pattern + lead time, not daily anxiety.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS
+
+Deprioritize:
+- hyperinflation speculation  
+- “reserve currency collapse” narratives  
+- crypto-as-savior cycles  
+- day-to-day market volatility  
+
+Reactivation only if:
+- policy response follows  
+- access restrictions appear  
+- essential services are affected  
+
+---
+
+## 3.4 Household Impact Override (Domain 3)
+
+Immediate escalation only if economic changes affect:
+- food access (benefits, school meals, pricing shocks)  
+- housing stability or utilities  
+- healthcare access or coverage  
+- transportation required for school, work, or care  
+
+Markets can burn quietly.  
+Households cannot.
+
+---
+
+## 3.5 Plateau rule (important here)
+
+Domain 3 enters plateau if:
+- no access restrictions  
+- benefits remain stable  
+- utilities remain uninterrupted  
+- pricing changes remain gradual  
+
+Plateau = weekly synthesis only.  
+No daily scanning.
