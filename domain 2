@@ -1,0 +1,110 @@
+# DOMAIN 2 — DOMESTIC POLITICAL INSTABILITY
+
+## Purpose of this domain
+Detect shifts that change rules mid-stream for civilians and households: authority, enforcement, courts, elections, emergency powers, and state–federal conflict.
+
+This domain is high-impact but also highly prone to noise.  
+The filtering rules here are intentionally strict.
+
+---
+
+## 2.1 What still belongs (baseline)
+
+These remain valid:
+- Executive / constitutional instability
+- State–federal defiance
+- Emergency powers expansion
+- Court legitimacy stress
+- Election-related disruption
+
+Structure holds.
+
+---
+
+## 2.2 What changed (re-baseline)
+
+### A. Instability is now procedural, not theatrical
+
+Less “chaos,” more:
+- quiet rule changes  
+- agency reinterpretations  
+- enforcement asymmetry  
+- selective application of law  
+
+So we stop watching rhetoric and start watching mechanics.
+
+### B. Courts are now a primary risk surface
+
+Not just high courts — also:
+- family courts  
+- administrative courts  
+- emergency orders  
+- venue shopping  
+
+This matters directly to stability, access, and legal outcomes.
+
+---
+
+## 2.3 Triggers
+
+### 🔴 ALERT-ELIGIBLE (interruptive only with proximity)
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Emergency powers expanded or reinterpreted | M | H | H | Especially affecting movement, assembly, household stability |
+| Court processes suspended, delayed, or overridden | L | H | M | “Temporary” is the danger word |
+| State or federal action impacting family law systems | M | H | M | Direct relevance |
+| Election-related enforcement affecting daily life | M | M | M | School, transport, ID, services |
+| Law enforcement authority broadened without oversight | M | H | M | Especially predictive / automated |
+
+**Alert rule:**  
+👉 Must be legally binding and applicable to the relevant jurisdiction(s) or federal systems.
+
+---
+
+### 🟡 LOG-ONLY (pattern + receipts)
+
+| Trigger | P | I | O | Notes |
+|---|---|---|---|---|
+| Constitutional standoffs (abstract) | M | M | H | Watch trends |
+| State rhetoric without enforcement | H | L | H | Noise |
+| High-court signaling without action | M | M | H | Precursor only |
+| Agency guidance changes | M | M | H | Matters later |
+| Election litigation | M | M | H | Log, don’t live in it |
+
+Purpose: hindsight clarity, not a vigilance tax.
+
+---
+
+### 🔵 SUSPEND / LOW-FOCUS
+
+Deprioritize:
+- cable-news panic cycles  
+- social media “civil war” narratives  
+- symbolic resolutions without force  
+- speculative secession talk  
+
+Reactivation only if:
+- enforcement follows  
+- services are disrupted  
+- courts or agencies act  
+
+---
+
+## 2.4 Household Impact Override (Domain 2)
+
+Immediate escalation only if domestic actions affect:
+- family law outcomes and protections  
+- schooling access or closures  
+- healthcare access  
+- freedom of movement  
+- ID or documentation requirements tied to services  
+
+Politics without impact = log.  
+Impact with shortened reaction time = alert.
+
+---
+
+## 2.5 Plateau rule
+
+Domain 2
